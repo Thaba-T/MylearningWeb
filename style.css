@@ -1,0 +1,37 @@
+h1 {
+    background-color: rgb(66, 2, 2);
+    font-size: 40px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p{
+    color: rgb(163, 55, 16);
+    font-family: fantasy;
+}
+
+h3{
+    font-family: Helvetica, sans-serif;
+}
+
+
+ul{
+    list-style-type: circle;
+}
+
+ol{
+    list-style-image: url(images/pointer-icon.png);
+}
+
+#menu-bar a{
+    font-family: helvetica, sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: aqua;
+    color: white;
+}
